@@ -1,0 +1,11 @@
+F,[2 1]
+size_backtrack,15
+dt,0.01
+T,3
+plot_time_step,5
+zero_threshold,0
+size_backtrack,15
+x1_ini,[2.  0.5]
+x2_ini,[ 4. -2.]
+x_goal,[ 6.  -1.4]
+dock time,0.5700000000000001

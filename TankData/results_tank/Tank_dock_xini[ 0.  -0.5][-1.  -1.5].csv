@@ -1,0 +1,21 @@
+F,[0.3 0.2]
+size_backtrack,30
+dt,0.05
+T,60
+plot_time_step,40
+zero_threshold,0.1
+size_backtrack,30
+x1_ini,[ 0.  -0.5]
+x2_ini,[-1.  -1.5]
+x_goal,[-0.65 -1.2 ]
+dock time,2.45
+waypoints for agent 1 
+[[ 0.         -0.5       ]
+ [-0.3421834  -0.77331845]
+ [-0.6272229  -1.17597113]
+ [-0.65       -1.2       ]]
+waypoints for agent 2 
+[[-1.         -1.5       ]
+ [-0.81270219 -1.36057667]
+ [-0.66338124 -1.21281943]
+ [-0.65       -1.2       ]]

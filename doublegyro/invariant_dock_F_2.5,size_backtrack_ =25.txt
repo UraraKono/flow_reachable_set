@@ -1,0 +1,17 @@
+F=2.5
+size_backtrack=25
+dt=0.01
+T=10
+plot_time_step=50
+zero_threshold=0.1
+size_backtrack=25
+x1_ini=[21 20]
+x2_ini=[29 17]
+x_goal=[25.  14.6]
+---flow parameters---
+A=1
+omega=0.6283185307179586
+eps=0
+s=25
+I=1
+sigma=1.4142135623730951
